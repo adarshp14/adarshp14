@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Adarsh Pandey
 
-<!--
-**adarshp14/adarshp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Engineer | Constant Learner**  
+🌱 **Passionate about building scalable solutions and AI-powered applications**
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Java, TypeScript, JavaScript
+- **Frameworks:** Spring Boot, Next.js
+- **Databases:** MongoDB, Oracle
+- **Other Tools:** Docker, Kafka, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Featured Projects
+- **[AI Portrait Studio](https://github.com/adarshp14/ai-portrait-backend)**  
+  Build stunning AI-powered portraits using Spring Boot and Next.js.  
+  <img src="https://via.placeholder.com/150" alt="AI Portrait Studio screenshot" />
+
+- **[Indian Tax Calculator 2025](https://github.com/adarshp14/IndianTaxCalculator2025)**  
+  Calculate income tax for Indian residents with support for old and new tax regimes.  
+
+- **[Personal Portfolio Website](https://github.com/adarshp14/adarsh-personal-website)**  
+  Showcasing my projects, skills, and professional journey.
+
+## 📈 GitHub Stats
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshp14&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+- **Email:** [adarshpofficial@gmail.com](mailto:adarshpofficial@gmail.com)
+- **Portfolio:** [adarshp14.github.io](https://adarshp14.github.io)
+- **LinkedIn:** [Adarsh Pandey](https://www.linkedin.com/in/adarsh-pandey-2017/)
+
+---
