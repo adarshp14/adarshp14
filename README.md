@@ -12,7 +12,8 @@
 ## 🌟 Featured Projects
 - **[AI Portrait Studio](https://github.com/adarshp14/ai-portrait-backend)**  
   Build stunning AI-powered portraits using Spring Boot and Next.js.  
-  ![AI Portrait Studio Screenshot](https://i.ibb.co/tPZQF4h/air-portrait-studio.png)
+  ![AI Portrait Studio Screenshot](https://i.imgur.com/S6Atae5.jpeg)
+
 
 
 - **[Indian Tax Calculator 2025](https://github.com/adarshp14/IndianTaxCalculator2025)**  
