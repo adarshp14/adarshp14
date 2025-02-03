@@ -12,7 +12,8 @@
 ## 🌟 Featured Projects
 - **[AI Portrait Studio](https://github.com/adarshp14/ai-portrait-backend)**  
   Build stunning AI-powered portraits using Spring Boot and Next.js.  
-  <img src="https://ibb.co/tPZQF4hf" alt="AI Portrait Studio screenshot" />
+  ![AI Portrait Studio Screenshot](https://i.ibb.co/tPZQF4h/air-portrait-studio.png)
+
 
 - **[Indian Tax Calculator 2025](https://github.com/adarshp14/IndianTaxCalculator2025)**  
   Calculate income tax for Indian residents with support for old and new tax regimes.  
