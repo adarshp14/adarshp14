@@ -27,7 +27,7 @@
 
 ## 📫 Let's Connect
 - **Email:** [adarshpofficial@gmail.com](mailto:adarshpofficial@gmail.com)
-- **Portfolio:** [adarshp14.github.io](https://adarsh.codes)
+- **Portfolio:** [adarsh.codes](https://adarsh.codes)
 - **LinkedIn:** [Adarsh Pandey](https://www.linkedin.com/in/adarsh-pandey-2017/)
 
 ---
